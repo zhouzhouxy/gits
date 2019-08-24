@@ -1,1 +1,6 @@
-hello text
+git 的使用
+在文件夹初始化 git init
+git remote add origin 从github复制下 如：git@github.com:zhouzhouxy/gits.git
+git add .	添加
+git commit -m "写一个备注"
+git push -u origin master 	最后的上传
